@@ -1,4 +1,4 @@
-############################################################
+##############################################################################
 # Nombre del Script: metabarcoding_bioinfo_Gerald.R
 # Descripción: "Metabarcoding 16S"
 # Autor: Gerald Moreno Morales
@@ -7,7 +7,7 @@
 #"https://benjjneb.github.io/dada2/tutorial.html"
 #"https://www.bioconductor.org/packages/3.3/bioc/manuals/dada2/man/dada2.pdf"
 #"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4927377/"
-############################################################
+##############################################################################
 
 ###Instalar BiocManager
 if (!requireNamespace("BiocManager", quietly = TRUE))
